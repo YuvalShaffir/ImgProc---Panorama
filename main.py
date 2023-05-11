@@ -13,7 +13,7 @@ from scipy.ndimage import map_coordinates
 import shutil
 from imageio import imwrite
 
-import sol4_utils
+import helper
 
 LEVEL_ONE_OF_PYR = 0
 LEVEL_THREE_OF_PYR = 2
